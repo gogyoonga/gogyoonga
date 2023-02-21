@@ -1,7 +1,7 @@
 <div align="center">
 <!-- header -->
   
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:fff59d,100:fff59d&height=180&fontAlignY=36&section=header&text=GOGYOONGA's%20GitHub%20&fontSize=35&fontColor=1faa00" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:ffcdd2,100:ffcdd2&height=180&fontAlignY=36&section=header&text=GOGYOONGA's%20GitHub%20&fontSize=35&fontColor=555555" />
   
   <h3> 📖 Skill </h3>
     <img src="https://img.shields.io/badge/C-A8B9CC?style=flat&logo=C&logoColor=white"/>
@@ -21,6 +21,6 @@
 <div align="center"; float: right;>
   <h3> 👻 Git Stats </h3>
   
-  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=gogyoonga&show_icons=true&theme=vue)
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gogyoonga&exclude_repo=dkssud8150.github.io&layout=compact&theme=vue" />
+  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=gogyoonga&show_icons=true&theme=buefy)
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gogyoonga&exclude_repo=dkssud8150.github.io&layout=compact&theme=buefy" />
 </div>
