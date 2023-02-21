@@ -1,7 +1,7 @@
 <div align="center">
 <!-- header -->
   
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:ffffcf,100:fff59d&height=180&fontAlignY=36&section=header&text=GOGYOONGA's%20GitHub%20&fontSize=35&fontColor=087f23" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:ffffcf,100:cbc26d&height=180&fontAlignY=36&section=header&text=GOGYOONGA's%20GitHub%20&fontSize=35&fontColor=087f23" />
   
   <h3> 📖 Skill </h3>
     <img src="https://img.shields.io/badge/C-A8B9CC?style=flat&logo=C&logoColor=white"/>
