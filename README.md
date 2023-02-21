@@ -16,7 +16,7 @@
   <br>
 </div>
 <div align="center"; float: right;>
-  <h3> 👻 Git Stats </h3>
+  <h3> 💎💎💎 </h3>
   
   ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=gogyoonga&show_icons=true&theme=buefy)
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gogyoonga&exclude_repo=dkssud8150.github.io&layout=compact&theme=buefy" />
