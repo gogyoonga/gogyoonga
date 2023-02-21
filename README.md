@@ -1,16 +1,34 @@
-### Hi there 👋
+<div align="center">
+<!-- header -->
+  
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:FFFFFF,100:00FFFF&height=180&fontAlignY=36&section=header&text=GOGYOONGA's%20GitHub%20&fontSize=35&fontColor=FAFAFA" />
+  
+  <h3> 📖 Skill </h3>
+    <img src="https://img.shields.io/badge/C-A8B9CC?style=flat&logo=C&logoColor=white"/>
+    <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=java&logoColor=white"/>
 
-<!--
-**gogyoonga/gogyoonga** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+  <br>
+  <h3> 💻 Studying </h3>
+    <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=java&logoColor=white"/>
+    <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=HTML5&logoColor=white"/>
+    <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=CSS3&logoColor=white"/>
+    <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=JavaScript&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=Spring&logoColor=white"/>
+    <img src="https://img.shields.io/badge/SpringBoot-6DB33F?style=flat-square&logo=SpringBoot&logoColor=white"/>
+  <br>
+</div>
+<div align="center"; float: right;>
+  <h3> 👻 Git Stats </h3>
+  
+  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=gogyoonga&show_icons=true&theme=default)
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gogyoonga&exclude_repo=dkssud8150.github.io&layout=compact&theme=default" />
+</div>
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<br>
+<div align="center">
+  
+[![Solved.ac
+프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=gogyoonga)](https://solved.ac/wl808)
+  
+</div>
