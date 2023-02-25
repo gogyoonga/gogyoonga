@@ -8,7 +8,7 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:fce4ec,100:ffcdd2&height=180&fontAlignY=36&section=header&text=GOGYOONGA's%20GitHub%20&fontSize=35&fontColor=7e57c2" />
 
   <br>
-  <h3> 🔥.🔥🔥</h3>
+  <h3> 🔥🔥🔥</h3>
   <img src="https://img.shields.io/badge/Unity-f8bbd0?style=flat-square&logo=java&logoColor=white"/>
     <img src="https://img.shields.io/badge/Java-f8bbd0?style=flat-square&logo=java&logoColor=white"/>
     <img src="https://img.shields.io/badge/JavaScript-f8bbd0?style=flat&logo=JavaScript&logoColor=white"/>
