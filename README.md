@@ -1,10 +1,3 @@
-
-<div align="right">
-<a href="https://gogyoonga.tistory.com/"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fgogyoonga%2Fhit-counter&count_bg=%237E57C2&title_bg=%FFFFFF&icon=&icon_color=%FFFFFF&title=%F0%9F%90%BF%EF%B8%8F&edge_flat=true"/></a>
-</div>
-
-
-
 <div align="center">
 <!-- header -->
  
