@@ -12,7 +12,10 @@
   <img src="https://img.shields.io/badge/Unity-f8bbd0?style=flat-square&logo=java&logoColor=white"/>
     <img src="https://img.shields.io/badge/Java-f8bbd0?style=flat-square&logo=java&logoColor=white"/>
     <img src="https://img.shields.io/badge/JavaScript-f8bbd0?style=flat&logo=JavaScript&logoColor=white"/>
-    <img src="https://img.shields.io/badge/%F0%9F%92%9B-WellSeeCoding-9c8&logoColor=white" />
+  <img src="https://img.shields.io/badge/-WellSeeCoding-222222?style=flat&logo=dart&logoColor=white"/>
+      <img src="https://img.shields.io/badge/Dart-9cf?style=flat&logo=dart&logoColor=white"/>
+      <img src="https://img.shields.io/badge/Flutter-9cf?style=flat&logo=flutter&logoColor=white"/>
+  
   <br>
 </div>
 <div align="center"; float: right;>
