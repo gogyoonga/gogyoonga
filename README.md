@@ -5,7 +5,7 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:FA6787,100:fff&height=180&fontAlignY=36&section=header&text=GOGYOONGA's%20GitHub%20&fontSize=35&fontColor=fff" />
 
 <div align="center">
-<img src="WSClogo2.png" style="width:100px;"/>
+<img src="palnapl_logo.png" style="width:100px;"/>
 </div>
 
   <br>
