@@ -10,11 +10,13 @@
 
   <br>
   <h3> 🔥🔥🔥</h3>
-  
+    <img src="https://img.shields.io/badge/-PalNPal-critical?style=flat&logoColor=white"/>
+    <img src="https://img.shields.io/badge/-Blender-critical?style=flat&logoColor=white"/>
+    <h3> 💫💫💫</h3>
   <img src="https://img.shields.io/badge/Unity-f8bbd0?style=flat-square&logo=java&logoColor=white"/>
     <img src="https://img.shields.io/badge/Java-f8bbd0?style=flat-square&logo=java&logoColor=white"/>
     <img src="https://img.shields.io/badge/JavaScript-f8bbd0?style=flat&logo=JavaScript&logoColor=white"/>
-  <img src="https://img.shields.io/badge/-PalNPal-critical?style=flat&logoColor=white"/>
+
       <img src="https://img.shields.io/badge/Dart-9cf?style=flat&logo=dart&logoColor=white"/>
       <img src="https://img.shields.io/badge/Flutter-9cf?style=flat&logo=flutter&logoColor=white"/>
   
