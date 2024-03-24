@@ -2,7 +2,7 @@
 <!-- header -->
  
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:FA6787,100:fff&height=180&fontAlignY=36&section=header&text=GOGYOONGA's%20GitHub%20&fontSize=35&fontColor=fff" />
+<img src="https://capsule-render.vercel.app/api?type=venom&height=300&color=gradient&text=GoGyoonGa&fontColor=ffffff&fontSize=60&textBg=false" />
 
 <div align="center">
 <img src="palnpal_logo.png" style="width:100px;"/>
