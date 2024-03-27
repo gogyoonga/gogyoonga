@@ -11,7 +11,7 @@
   <br>
   <h3> 🔥🔥🔥</h3>
     <img src="https://img.shields.io/badge/-PalNPal-critical?style=flat&logoColor=white"/>
-    <img src="https://img.shields.io/badge/-Blender-critical?style=flat&logoColor=white"/>
+    <img src="https://img.shields.io/badge/-Blender-critical?style=flat&logo=Blender&logoColor=white"/>
     <img src="https://img.shields.io/badge/-Unity-critical?style=flat&logo=Unity&logoColor=white"/>
     <h3> 💫💫💫</h3>
     <img src="https://img.shields.io/badge/Java-f8bbd0?style=flat-square&logo=java&logoColor=white"/>
