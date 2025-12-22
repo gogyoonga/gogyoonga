@@ -5,7 +5,7 @@
 <img src="https://capsule-render.vercel.app/api?type=venom&height=300&color=gradient&text=ButterJelly&fontColor=ffffff&fontSize=60&textBg=false" />
 
 <div align="center">
-<img src="Logo_.png" style="width:100px;"/>
+<img src="Logo_.png" style="width:500px;"/>
 </div>
 
   <br>
