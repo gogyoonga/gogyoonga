@@ -3,10 +3,10 @@
  
 
 <img src="https://capsule-render.vercel.app/api?type=venom&height=300&color=gradient&text=ButterJelly&fontColor=ffffff&fontSize=60&textBg=false" />
-![Logo-0001-export](https://github.com/user-attachments/assets/a1cac891-8157-46e7-bb38-0850f34dcabe)
+
 
 <div align="center">
-<img src="Logo-0001-export.gif" style="width:500px;"/>
+<img src="[Logo-0001-export.gif](https://github.com/user-attachments/assets/a1cac891-8157-46e7-bb38-0850f34dcabe)" style="width:500px;"/>
 </div>
 
   <br>
