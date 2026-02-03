@@ -6,7 +6,7 @@
 
 
 <div align="center">
-<img src="[Logo-0001-export.gif](https://github.com/user-attachments/assets/a1cac891-8157-46e7-bb38-0850f34dcabe)" style="width:500px;"/>
+<img src="https://github.com/user-attachments/assets/a1cac891-8157-46e7-bb38-0850f34dcabe" style="width:500px;"/>
 </div>
 
   <br>
